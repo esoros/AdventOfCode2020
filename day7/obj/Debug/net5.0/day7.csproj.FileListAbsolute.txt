@@ -1,0 +1,15 @@
+/Users/ericsoros/Code/day7/bin/Debug/net5.0/day7.deps.json
+/Users/ericsoros/Code/day7/bin/Debug/net5.0/day7.runtimeconfig.json
+/Users/ericsoros/Code/day7/bin/Debug/net5.0/day7.runtimeconfig.dev.json
+/Users/ericsoros/Code/day7/bin/Debug/net5.0/day7.dll
+/Users/ericsoros/Code/day7/bin/Debug/net5.0/ref/day7.dll
+/Users/ericsoros/Code/day7/bin/Debug/net5.0/day7.pdb
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/day7.csprojAssemblyReference.cache
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/day7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/day7.AssemblyInfoInputs.cache
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/day7.AssemblyInfo.cs
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/day7.csproj.CoreCompileInputs.cache
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/day7.dll
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/ref/day7.dll
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/day7.pdb
+/Users/ericsoros/Code/day7/obj/Debug/net5.0/day7.genruntimeconfig.cache

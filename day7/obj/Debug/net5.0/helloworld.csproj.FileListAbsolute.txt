@@ -1,0 +1,15 @@
+/Users/ericsoros/Code/helloworld/bin/Debug/net5.0/helloworld.deps.json
+/Users/ericsoros/Code/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/Users/ericsoros/Code/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/Users/ericsoros/Code/helloworld/bin/Debug/net5.0/helloworld.dll
+/Users/ericsoros/Code/helloworld/bin/Debug/net5.0/ref/helloworld.dll
+/Users/ericsoros/Code/helloworld/bin/Debug/net5.0/helloworld.pdb
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/helloworld.csprojAssemblyReference.cache
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/helloworld.dll
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/ref/helloworld.dll
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/helloworld.pdb
+/Users/ericsoros/Code/helloworld/obj/Debug/net5.0/helloworld.genruntimeconfig.cache
