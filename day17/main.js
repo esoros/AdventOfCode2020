@@ -111,6 +111,7 @@ fs.readFile("./input.txt", "utf8", (_, data) => {
     }
     
     for(var i = 0; i < 6; i++) {
+        //the main insight here is that we only have to keep track of the active cubes (the plain is infinite...)
         activeCubes = cyclePt2(activeCubes)
     }
     console.log(activeCubes.length)
